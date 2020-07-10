@@ -31,15 +31,23 @@ obj4.method1() */
 
  //
 
-/* var obj = {
+/*  var obj = {
 
-    /* sum: function sum(a, b) {
+    sum: function sum(a, b) {
         return a + b
-    } */
+    }
     //or - 
-    /* sum(a, b){
+    sum(a, b){
         return a + b
-    } */
+    }
 }
 
-console.log(obj.sum(1, 5)) */
+console.log(obj.sum(1, 5))  */
+
+//After
+var propName = 'teste'
+var obj1 = {}
+
+obj1[propName + 'concat'] = 'prop value'
+
+console.log(obj1)
