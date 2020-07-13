@@ -1,0 +1,53 @@
+# Testes
+
+## Testes automatizados
+
+* Testes unitários - Papel de testar a menor unidade do seu codigo. Falando sobre o comportamento dos componentes, metodos, funções, etc.
+* Testes integrados - Ele testa a integração desses pequenos componentes. Exemplo: 2 classes, 2 funções combinadas.
+* Testes funcionais - Integração do seu sistema com outros, de ponta a ponta. Ex. Teste Black BhxBrowser
+
+## Testes manuais e automatizados
+
+* Testes usabilidade;
+* Testes de aceitação do usuário - Se os criterios estão sendo respeitados.
+* Protótipos;
+* Testes funcionais;
+* Exemplos;
+* Alpha e beta;
+* Mais...
+
+## Ferramentas de Testes
+
+* Teste de carga e performance;
+* Testes de segurança;
+* Mais...
+
+TDD (Test Driven Development)
+
+É um dos pilares do Extreme PerformanceNavigationTiming, consiste em testar e refatorar em pequenos ciclos,
+onde você escreve o teste antes do códiog, faz o mesmo passar e refatora o código.Alpha
+
+Escrita do teste => Escrita do código -> Refatoração -> repetição do Ciclo.
+
+
+### Vantagens
+
+* Feedback rápido;
+* Maior segurança em alterações e novas funcionalidades;
+* Código mais limpo;
+* Produtividade;
+
+BDD (Behavuir Driven Development)
+
+Técnica de desenvolvimento ágil que visa integrar regras de negócio com liguagens de programação.
+
+### Pilares
+* Testes;
+* Documentação;
+* Exemplos;
+
+### Vantagens
+
+* Compartilhamento de conhecimento;
+* Documentação dinâmica;
+* Visão do todo;
